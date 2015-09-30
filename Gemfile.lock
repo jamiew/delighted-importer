@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    delighted (1.5.0)
+      multi_json
+    multi_json (1.11.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  delighted
+
+BUNDLED WITH
+   1.10.6
